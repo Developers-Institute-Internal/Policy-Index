@@ -1,4 +1,4 @@
-# Contents For Students
+# Policy Index
 
 | **Policy** | **Purpose** |
 |:--------:|------|
