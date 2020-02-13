@@ -1,7 +1,7 @@
 # Policy Index
 
 | **Policy** | **Purpose** |
-| -------- | ------ |
+| -------------------------------------------- | ------ |
 |[Academic Integrity Policy](https://github.com/Developers-Institute-Internal/Academic-Intergrity-Policy) |  The purpose of this policy is to: (a)affirm the Institute's commitment to academic integrity. (b)affirm that the Institute has a responsibility to educate students with regards to academic integrity. (c)define the expectations and responsibilities of the Institute’s staff and students as regards the fostering of academic integrity. |
 |[Academic Record Management Policy](https://github.com/Developers-Institute-Internal/Academic-Record-Management-Policy) | The purpose of the Academic Record Management Policy is to maintain the academic records of each student at Developers Institute. Academic records will be managed using the appropriate software for an electronic data storage system. This policy ensures the Institute meets the PTE Enrolment and Academic Records Rules 2012.
 |[Assessment Policy](https://github.com/Developers-Institute-Internal/Assessment-Policy) | The purpose of this policy is to ensure that all assessment practices and courses offered by the Developers Institute are fair, just and meaningful for students. |
